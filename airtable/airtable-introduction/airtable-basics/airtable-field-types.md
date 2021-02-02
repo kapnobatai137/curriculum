@@ -8,8 +8,8 @@ links:
     Types](https://support.airtable.com/hc/en-us/articles/203229705-Guide-to-the-basic-field-types){documentation}
 practiceQuestion:
   formats:
-    - fill-in-the-gap
-  context: relative
+    - strike-in-the-gap
+  context: random
 ---
 
 # Field Types
@@ -80,3 +80,11 @@ Which of the following is an accepted field type?
 - Single line text.
 - Currency.
  
+---
+
+## Revision
+
+This is a rule test ???.
+
+- Yes
+- No
