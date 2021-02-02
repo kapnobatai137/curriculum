@@ -80,4 +80,3 @@ Which of the following is an accepted field type?
 - Single line text.
 - Currency.
  
-
