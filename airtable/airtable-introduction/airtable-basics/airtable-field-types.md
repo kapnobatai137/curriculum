@@ -9,7 +9,7 @@ links:
 practiceQuestion:
   formats:
     - strike-in-the-gap
-  context: random
+  context: standalone
 ---
 
 # Field Types
