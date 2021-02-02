@@ -6,7 +6,8 @@ links:
   - >-
     [Basic Field
     Types](https://support.airtable.com/hc/en-us/articles/203229705-Guide-to-the-basic-field-types){documentation}
-revisionQuestion:
+practiceQuestion:
+  type: wrong
   formats:
     - fill-in-the-gap
   context: standalone
