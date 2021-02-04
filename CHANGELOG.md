@@ -32,6 +32,7 @@ If more than one insight is changed in the PR, you can:
 ```
 
 
+
 Types of change:
 
 - `Added` for new content (e.g. a new insight, workout, topic).
