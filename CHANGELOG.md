@@ -31,6 +31,7 @@ If more than one insight is changed in the PR, you can:
 - [Topic Name - Insight Name 1 - Description](link-to-the-PR)
 ```
 
+
 Types of change:
 
 - `Added` for new content (e.g. a new insight, workout, topic).

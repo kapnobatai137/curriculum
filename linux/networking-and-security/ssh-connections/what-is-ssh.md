@@ -26,6 +26,7 @@ revisionQuestion:
 
 ## Content
 
+
 SSH, the acronym for _Secure Socket Shell_, is a protocol that provides a safe way of accessing _remote systems_.
 
 It ensures _strong authentication_ and _secure encrypted data transfer_ between two computers over a possible insecure Internet connection.
