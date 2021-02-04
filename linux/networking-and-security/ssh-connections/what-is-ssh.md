@@ -9,15 +9,6 @@ links:
   - >-
     [More on
     SSH](https://www.digitalocean.com/community/tutorials/how-to-use-ssh-to-connect-to-a-remote-server-in-ubuntu){website}
-practiceQuestion:
-  formats:
-    - fill-in-the-gap
-    - type-in-the-gap
-  context: standalone
-revisionQuestion:
-  formats:
-    - fill-in-the-gap
-  context: standalone
 ---
 
 # What is SSH?
@@ -25,9 +16,6 @@ revisionQuestion:
 ---
 
 ## Content
-
-
-
 
 SSH, the acronym for _Secure Socket Shell_, is a protocol that provides a safe way of accessing _remote systems_.
 
@@ -56,31 +44,6 @@ ssh host_ip_address
 ```
 
 SSH is included by default in Linux, Unix-like and OSX operating systems, but not in Windows.
-
----
-
-## Practice
-
-Which port does SSH typically use?
-
-???
-
-- 22
-- 80
-- 443
-- 3000
-
----
-
-## Revision
-
-What are the three utilities SSH comprises?
-
-???
-
-- ssh, slogin, scp
-- rlogin, ssh, rcp
-- rlogin, rsh, rcp
 
 ---
 
