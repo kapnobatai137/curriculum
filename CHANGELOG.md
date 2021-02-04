@@ -16,6 +16,7 @@ The general format is:
 
 
 
+
 `Date` represents the date on which the PR was merged.
 
 If more than one insight is changed in the PR, you can:

@@ -7,6 +7,7 @@ insights:
   - ssh-tunneling-made-easy
   - breaking-out-of-a-terminal-when-ssh-locks
   - ssh-security
+  - test-ins
 aspects:
   - workout
   - obscura
