@@ -14,9 +14,6 @@ The general format is:
 - [Topic Name - Insight Name - Description of the change](link-to-the-PR-or-commit-where-the-change-was-added)
 ```
 
-
-
-
 `Date` represents the date on which the PR was merged.
 
 If more than one insight is changed in the PR, you can:
