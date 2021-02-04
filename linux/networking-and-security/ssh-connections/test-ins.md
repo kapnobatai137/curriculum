@@ -15,6 +15,7 @@ links:
 ## Content
 
 
+
 In 1995, Tatu Ylönen (a researcher from Helsinki University) launched the first version of SSH (SSH-1). Over time, many bugs were discovered and in 2006 a new set of Secure Shell protocols was adopted (SSH-2).
 
 The old version used _public-key cryptography_[1] to authenticate to the remote machine, which SSH-2 replaced with _Diffie–Hellman key exchange_[2].
