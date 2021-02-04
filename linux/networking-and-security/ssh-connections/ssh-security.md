@@ -27,6 +27,7 @@ There are several encryption methods available in SSH-2, but the most used ones 
 
 > 💡 There is no evidence of any exploits for SSH-2 yet, however, some documents leaked by Edward Snowden state that some might be available.
 
+
 ---
 
 ## Practice
