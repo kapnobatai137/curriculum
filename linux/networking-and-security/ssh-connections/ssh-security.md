@@ -1,5 +1,5 @@
 ---
-author: SebaRaba
+author: kapnobatai136
 type: normal
 category: must-know
 links:
@@ -18,6 +18,7 @@ practiceQuestion:
 
 ## Content
 
+
 In 1995, Tatu Ylönen (a researcher from Helsinki University) launched the first version of SSH (SSH-1). Over time, many bugs were discovered and in 2006 a new set of Secure Shell protocols was adopted (SSH-2).
 
 The old version used _public-key cryptography_[1] to authenticate to the remote machine, which SSH-2 replaced with _Diffie–Hellman key exchange_[2].
@@ -25,6 +26,7 @@ The old version used _public-key cryptography_[1] to authenticate to the remote 
 There are several encryption methods available in SSH-2, but the most used ones are _AES_[3] and _Blowfish_[4].
 
 > 💡 There is no evidence of any exploits for SSH-2 yet, however, some documents leaked by Edward Snowden state that some might be available.
+
 
 ---
 
