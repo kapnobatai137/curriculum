@@ -6,7 +6,6 @@ core: true
 
 sections:
   '0':
-    - coding-intro-introduction
     - core-concepts
     - variables-and-data
     - collections
