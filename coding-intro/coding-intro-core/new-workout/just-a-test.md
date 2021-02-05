@@ -5,6 +5,14 @@ type: normal
 
 category: must-know
 
+practiceQuestion:
+  formats:
+    - fill-in-the-gap
+  context: relative
+revisionQuestion:
+  formats:
+    - fill-in-the-gap
+  context: relative
 ---
 
 # Conditions and Loops
@@ -31,3 +39,21 @@ Picture playing your favorite song on repeat. The command `play` is looped over 
 We only have to write the command `play` once and then use a loop to repeat it until a user presses stop.
 
 > 💡 Loops let us repeat doing a command any number of times
+
+---
+
+## Practice
+
+What is ???.
+
+- a
+- b
+
+---
+
+## Revision
+
+What is ???.
+
+- a
+- b
