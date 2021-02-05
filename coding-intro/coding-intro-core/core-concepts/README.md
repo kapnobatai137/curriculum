@@ -3,7 +3,6 @@ name: Core Concepts
 description: The building blocks of coding.
 
 aspects:
-  - introduction
   - workout
 
 insights:
