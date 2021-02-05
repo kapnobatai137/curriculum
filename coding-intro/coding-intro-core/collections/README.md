@@ -3,7 +3,7 @@ name: Collections
 description: Coding tools for working with data.
 
 aspects:
-  - introduction
+  - workout
 
 insights:
   - introducing-collections
