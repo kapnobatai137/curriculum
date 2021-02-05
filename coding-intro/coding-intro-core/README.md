@@ -6,6 +6,7 @@ core: true
 
 sections:
   '0':
+    - new-workout
     - core-concepts
     - variables-and-data
     - collections
