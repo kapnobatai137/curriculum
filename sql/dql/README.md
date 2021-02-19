@@ -6,7 +6,6 @@ core: true
 
 sections:
   '0':
-    - what-is-sql
     - using-select
     - building-queries
     - special-operators
