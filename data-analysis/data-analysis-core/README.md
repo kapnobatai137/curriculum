@@ -6,7 +6,6 @@ core: true
 
 sections:
   '0':
-    - intro-to-data-analysis
     - data-analysis-terminology
     - data-analysis-buzzwords
     - data-analysis-using-spreadsheets
