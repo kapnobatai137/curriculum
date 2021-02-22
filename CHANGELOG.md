@@ -30,6 +30,7 @@ If more than one insight is changed in the PR, you can:
 - write an entry for each insight using the same PR link:
 
 
+
 ```md
 - [Topic Name - Insight Name 2 - Description](link-to-the-PR)
 - [Topic Name - Insight Name 1 - Description](link-to-the-PR)
