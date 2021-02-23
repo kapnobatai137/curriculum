@@ -32,6 +32,7 @@ If more than one insight is changed in the PR, you can:
 
 
 
+
 ```md
 - [Topic Name - Insight Name 2 - Description](link-to-the-PR)
 - [Topic Name - Insight Name 1 - Description](link-to-the-PR)
