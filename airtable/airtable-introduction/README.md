@@ -6,7 +6,6 @@ core: true
 
 sections:
   '0':
-    - intro-airtable
     - airtable-basics
     - airtable-intro-templates
     - airtable-views
