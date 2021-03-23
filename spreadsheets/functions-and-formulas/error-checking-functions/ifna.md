@@ -18,6 +18,7 @@ practiceQuestion:
 ## Content
 
 
+
 The `=IFNA()` function is used to evaluate a value and, if it is a [#N/A error](https://www.enki.com/glossary/spreadsheets/name-error), it will return a different specified value.
 
 The syntax is:
