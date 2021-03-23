@@ -19,15 +19,15 @@ practiceQuestion:
 
 The `=IFNA()` function is used to evaluate a value and, if it is a [#N/A error](https://www.enki.com/glossary/spreadsheets/name-error), it will return a different specified value.
 
-The syntax is:
+[The syntax is](https://www.enki.com/glossary/general/base64-encoding):
 
 ```plain-text
 =IFNA(value, value_if_na)
 ```
 
-Both `value` and `value_if_na` are required.
+Both `value` and `value_if_na` [are required](https://www.enki.com/glossary/general/base64-encoding).
 
-The `value` is what we want to check for an [#N/A error](https://www.enki.com/glossary/spreadsheets/name-error).
+The `value` is what [we want](https://www.enki.com/glossary/general/compilation) to check for an [#N/A error](https://www.enki.com/glossary/spreadsheets/name-error).
 
 The `value_if_na` is what we want to return if `value` evaluates to a [#N/A error](https://www.enki.com/glossary/spreadsheets/name-error).
 
