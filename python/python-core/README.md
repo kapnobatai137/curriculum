@@ -6,7 +6,6 @@ core: true
 
 sections:
   '0':
-    - meet-python
     - syntax-and-numerical-operators
     - control-flow-i
     - control-flow-ii
