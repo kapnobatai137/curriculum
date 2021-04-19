@@ -4,4 +4,5 @@ insights:
   - new-populated-insight
 aspects:
   - introduction
+  - workout
   - deep
