@@ -55,6 +55,7 @@ Types of change:
 
 
 
+
 ### Fixed
 - [Python - Change python coding to discussion back](https://github.com/enkidevs/curriculum/pull/2676)
 
