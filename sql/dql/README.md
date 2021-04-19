@@ -7,6 +7,7 @@ core: true
 sections:
   '0':
     - what-is-sql
+    - new-workout
     - using-select
     - building-queries
     - special-operators
