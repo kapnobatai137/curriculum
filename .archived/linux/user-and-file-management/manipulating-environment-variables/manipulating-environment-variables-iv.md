@@ -1,15 +1,11 @@
 ---
-author: jfarmer
+author: kapnobatai136
 
 levels:
 
   - basic
 
   - beginner
-
-aspects:
-  - introduction
-  - workout
 
 type: normal
 
@@ -21,6 +17,10 @@ tags:
 
   - introduction
 
+practiceQuestion:
+  context: standalone
+  formats:
+    - fill-in-the-gap
 
 ---
 

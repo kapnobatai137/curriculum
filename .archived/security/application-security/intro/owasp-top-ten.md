@@ -1,15 +1,11 @@
 ---
-author: lizTheDeveloper
+author: kapnobatai136
 
 levels:
 
   - beginner
 
   - basic
-
-aspects:
-
-  - introduction
 
 type: normal
 
@@ -24,6 +20,15 @@ links:
   - '[OWASP Top Ten](https://owasp.org/www-project-top-ten/){website}'
   - '[Common Vulnerabilities and Exposures Database](https://cve.mitre.org/){website}'
   - '[Cryptography and Security on Arxiv](https://arxiv.org/list/cs.CR/recent){website}'
+
+practiceQuestion:
+  context: standalone
+  formats:
+    - fill-in-the-gap
+revisionQuestion:
+  context: standalone
+  formats:
+    - fill-in-the-gap
 
 ---
 

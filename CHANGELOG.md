@@ -6,6 +6,7 @@ and it was adapted for the `curriculum` repository.
 
 **Format**
 
+
 The general format is:
  
 ```md
