@@ -9,7 +9,7 @@ levels:
 
 type: normal
 
-category: how to
+category: must-know
 
 
 standards:
