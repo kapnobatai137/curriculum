@@ -6,5 +6,5 @@ insights:
   - airtable-common-terminology
   - airtable-your-first-base
 aspects:
-  - introduction
+  - deep
  
