@@ -43,6 +43,7 @@ Types of change:
 ### Added
 - a
 - b
+- c
 
 ### Changed
 
