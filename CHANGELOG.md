@@ -42,6 +42,7 @@ Types of change:
  
 ### Added
 - a
+- b
 
 ### Changed
 
