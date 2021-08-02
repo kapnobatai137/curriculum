@@ -1,8 +1,8 @@
 ---
-author: amgando
+author: kapnobatai136
 type: exercise
 linkType: github
-link: 'https://gist.github.com/tebba-von-mathenstein/ff963772b6f770f8cb41bfe05b38721e'
+link: 'https://gist.github.com/tebba-von-mathenstein/dda805c0a8da2b671ba9bc900eda7abf'
 links:
   - >-
     [Intro To
@@ -28,7 +28,7 @@ links:
     Explained](https://pressable.com/blog/2014/12/23/dns-record-types-explained/){article}
 ---
 
-# DNS and Dig Part 2
+# DNS and Dig Part 1
 
 
 ---

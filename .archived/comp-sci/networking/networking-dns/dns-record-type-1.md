@@ -1,5 +1,5 @@
 ---
-author: amgando
+author: kapnobatai136
 type: normal
 category: must-know
 links:
@@ -15,7 +15,7 @@ practiceQuestion:
 revisionQuestion:
   formats:
     - fill-in-the-gap
-  context: standalone
+  context: relative
 ---
 
 # DNS Record Types
@@ -37,26 +37,29 @@ There are many different kinds of DNS records. Among the most important types of
 
 ## Practice
 
-Which of the following "questions" does an NS record for a particular domain name answer?
+Suppose you want to determine the IPv6 address of a **webserver** for **google.com**, which of these DNS queries will give you the answer to your question?
 
 ???
 
-- What is the name of the authoritative name server for this domain name?
-- What is the IP address of this domain name?
-- What is the IP address of the authoritative name server for this domain name?
-- What is the name of the TLD server responsible for this domain name?
+- AAAA google.com
+- A google.com
+- NS google.com
+- MX google.com
+- CNAME google.com
+- None of these
 
 
 ---
 
 ## Revision
 
-Which of the following DNS records provides information about the authoritative name server for the domain name in question?
+Which DNS record type returns an IPv4 address?
 
 ???
 
+- A
+- AAAA
 - NS
 - MX
 - CNAME
-- A
-- AAAA
+- None of these

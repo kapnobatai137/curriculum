@@ -1,5 +1,5 @@
 ---
-author: amgando
+author: kapnobatai136
 type: normal
 category: pattern
 links:
