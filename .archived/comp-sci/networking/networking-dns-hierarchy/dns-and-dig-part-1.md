@@ -1,5 +1,5 @@
 ---
-author: amgando
+author: kapnobatai136
 type: exercise
 linkType: github
 link: 'https://gist.github.com/tebba-von-mathenstein/dda805c0a8da2b671ba9bc900eda7abf'
