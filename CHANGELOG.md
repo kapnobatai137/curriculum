@@ -50,6 +50,7 @@ Types of change:
 
 ## July 29th 2021
 
+
 ### Fixed
 - [Linux - Difference between `redirection` and `pipe` - Fix typo in footnote](https://github.com/enkidevs/curriculum/pull/2805)
 
